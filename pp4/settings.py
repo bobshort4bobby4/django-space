@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'cloudinary',
     'unitbook',
+    'unitbook.booking_code',
 ]
 
 MIDDLEWARE = [
